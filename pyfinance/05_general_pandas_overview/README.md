@@ -1,0 +1,28 @@
+# Section 5. General Pandas Overview
+
+- Series
+  - needs data and index.
+    - `pd.Series(data=[,,,], index=[,,,]) # same length`
+  - can be made by python dictionary.
+    - `pd.Series({}) # dict`
+- DataFrames
+  - needs data, index, and columns.
+    - `pd.DataFrames([data], index=[,,,], columns=[,,,]`
+    - For example, if data is 3x4, len(index) = 3, len(columns) = 4
+  - `df[<columns>]`
+    - For example, `df['col1']` or `df[['col1', 'col2']]`
+- Missing Data
+  - `isnull(), fillna()`
+- Group By with Pandas
+  - `xx.groupby([column name])`
+- Merging, Joining, and Concatenating 
+  - `concat(), merge(), join()`
+    - concat => gluing data together
+    - merge => concat two dataframes by column
+    - join => concat two dataframes by index 
+  - outer, inner join concepts!
+- Pandas Operations
+  - `unique(), nunique(), head(), value_counts(),`
+- Data Input and Output
+  - `read_csv(), to_csv(), read_excel(), to_excel(), read_html()`
+    - need more libraries such as lxml, beautifulsoup4, xlrd....
