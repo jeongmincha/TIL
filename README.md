@@ -1,18 +1,8 @@
-# TIL
-Today I Learned. I am constantly learning something and writing them all here.
-I started writing this repository on 19 December 2017.
+# TIL (Today I Learned)
 
-# Rules
-- Retain only folders on the root folder, except organizational files.
-- Write the summary for what I learned today in a form of markdown (.md).
+I write what I learn about computer science and programming here.
 
-## Deep Learning
-- cs224n
-  - Lecture 11
-
-## Python for Finance
-- Udemy (Python For Financial Analysis and Algorithmic Trading)
-  - Section 5. General Pandas Overview
-
-## Misc
-- Taking a day off
+## Topic
+* [Cloud & DevOps](devops/)
+  * [IaC (Infrastructure as Code)](devops/IaC.md)
+  * [Virtualization](devops/virtualization.md)
