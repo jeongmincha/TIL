@@ -9,10 +9,10 @@ I write what I learn about computer science and programming here.
 > ✨   
 
 ## Topic
-* [Cloud & DevOps](devops/)
-  * [IaC (Infrastructure as Code)](devops/IaC.md)
-  * [Virtualization](devops/virtualization.md)
-* [Finance](finance/) -> mostly written in Korean
-  * [Terms on financial statements]()
-* [Network](network/)
-  * [Basic](basic.md) - IPv4, Subnet
+* [Cloud & DevOps](./devops/)
+  * [IaC (Infrastructure as Code)](./devops/IaC.md)
+  * [Virtualization](./devops/virtualization.md)
+* [Finance](./finance/) -> mostly written in Korean
+  * [Terms on financial statements](./finance/terms-financial-statements.md)
+* [Network](./network/)
+  * [Basic](./network/basic.md) - IPv4, Subnet
