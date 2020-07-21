@@ -14,4 +14,5 @@ I write what I learn about computer science and programming here.
   * [Virtualization](devops/virtualization.md)
 * [Finance](finance/) -> mostly written in Korean
   * [Terms on financial statements]()
-* 
+* [Network](network/)
+  * [Basic](basic.md) - IPv4, Subnet
