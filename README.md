@@ -18,4 +18,5 @@ I write what I learn about computer science and programming here.
 ## Topics not directly related to Computer Science and Programming
 * [Finance](./not-dev/finance/): mostly written in Korean
   * [Terms on financial statements](./not-dev/finance/terms-financial-statements.md)
+  * [ETF](./not-dev/finance/etf.md)
   * [Boolileo's advices](./not-dev/finance/boolileo-advice.md)
